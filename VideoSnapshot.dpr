@@ -140,9 +140,10 @@ begin
 
   for Loop := 1 to Count do
   begin
-    Output := PathName+Format('output_%0.5d.jpg', [Loop]);
+    Output := PathName+Format('snapshot_%0.3d.jpg', [Loop]);
     if FileExists(Output) then DeleteFile(Output);
 
+    WriteLn(' #'+Loop.ToString+': '+Output);
     GetDosOutput('"'+FFMpeg+'" -accurate_seek -ss '+FormatDateTime('hh:nn:ss.000', (Round(Duration/Count)*(Loop-1)+Start)/SecsPerDay)+' -i "'+Source+'" -frames:v 1 "'+Output+'"');
   end;
 end.
