@@ -4,7 +4,7 @@ Video Snapshot is an easy to use utility to capture a still from video.
 
 # How to use
 
-Download [latest version from Releases page](https://kilho.net) and run.
+Download [latest version from Releases page](https://down.kilho.net/videosnapshot) and run.
 
 ```
 Usage: VideoSnapshot.exe /i <value> [/o <value>] [/n  <value>]
