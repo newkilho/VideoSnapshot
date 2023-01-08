@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.949,=D:\Source\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.002,D:\Source\Delphi\Person\VideoThumb\VideoThumb.dproj=D:\Source\Delphi\Person\VideoSnapshot\VideoSnapshot.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.712,D:\Source\Delphi\Project1.dproj=D:\Source\Delphi\Person\VideoThumb\VideoThumb.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.285,=D:\Source\Delphi\Unit1.pas</Transaction>
     <Transaction>1899-12-30 00:00:00.000.970,=D:\Source\Delphi\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.712,D:\Source\Delphi\Person\VideoThumb\VideoThumb.dproj=D:\Source\Delphi\Project1.dproj</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.002,D:\Source\Delphi\Person\VideoSnapshot\VideoSnapshot.dproj=D:\Source\Delphi\Person\VideoThumb\VideoThumb.dproj</Transaction>
     <Transaction>1899-12-30 00:00:00.000.278,=D:\Source\Delphi\Unit1.pas</Transaction>
     <Transaction>1899-12-30 00:00:00.000.164,=D:\Source\Delphi\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.285,=D:\Source\Delphi\Unit1.pas</Transaction>
-    <Transaction>1899-12-30 00:00:00.000.949,=D:\Source\Delphi\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
